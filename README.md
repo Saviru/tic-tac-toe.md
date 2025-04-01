@@ -20,4 +20,14 @@
 You can create your own game by running this notebook on google colab, jupyter or any other platform. If you want, You also can copy and past my ```Game.md``` file into your own markdown file.
 <br>
 
-<a href="">Go to source file</a>
+<a href="https://github.com/Saviru/tic-tac-toe.md/blob/main/tic_tac_toe.ipynb">Go to source file</a>
+<br>
+
+###### Credits: <a href="https://github.com/kylepls">**@kylepls**</a>
+
+<hr>
+
+
+### Thank you.
+ 
+
